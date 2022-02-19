@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "rotlc",
+  "version": "${version}",
+  "name": "ROTLC",
+  "description": "This mod changes Open To LAN open cheats button.",
+  "authors": [
+    "AllxRise"
+  ],
+  "contact": {
+    "repo": "https://github.com/AllxRise/rotlc"
+  },
+  "license": "MIT",
+  "icon": "assets/rotlc/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.allxrise.rotlc.client.RotlcClient"
+    ]
+  },
+  "mixins": [
+    "rotlc.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.2",
+    "fabric": "*",
+    "minecraft": "1.18.1"
+  }
+}
