@@ -1,19 +1,17 @@
 # About this mod
 
-* This mod has a one job, and it's doing its own job perfectly.
-* And it's job is removes cheat on/off switch from Open To LAN screen.
-* If anyone finds to way to open cheats, they can't open it. I hard coded to turn off cheats. It might be going to have
-  problems with other mods but I can't look every mods source and see if it's incompatible.
-* If you see any incompliment with other mods, you can freely open an issue to report.
+* This mod has one job, and it's doing its own job perfectly,
+and it's job is removes cheat on/off switch from Open To LAN screen.
+* If anyone finds a way to open cheats, they can't open it. I hard coded to turn off cheats. It might have problems with other mods, but I can't look at every mod source and see if it's incompatible.
+* If you see any incompatibility with other mods, you can freely open an issue to report it.
 
 # Permissions
 
-* Everyone can use this mod in their mod-pack but if it's pack gonna published to anywhere, publisher should let me
-  know.
+* Everyone can use this mod in their mod-packs, but if the pack is going to be published anywhere, the publisher should let me know.
 
 # Credits
 
-* [Kn0ax](https://github.com/Kn0ax)
+* [Kn0ax](https://github.com/Kn0ax) for giving this awesome idea. ^_^
 
 # LICENSE
 
