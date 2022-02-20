@@ -11,6 +11,10 @@
 * Everyone can use this mod in their mod-pack but if it's pack gonna published to anywhere, publisher should let me
   know.
 
+# Credits
+
+* [Kn0ax](https://github.com/Kn0ax)
+
 # LICENSE
 
 The MIT License (MIT)
